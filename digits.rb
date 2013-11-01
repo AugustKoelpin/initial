@@ -1,3 +1,5 @@
+### Simple String
+
 puts 'hello world'
 
 puts 'i like ' + 'banana cake'
@@ -12,4 +14,3 @@ puts '12 + 12'
 
 #puts 'You're swell!'
 puts 'You\'re swell!'
-

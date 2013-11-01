@@ -26,14 +26,16 @@ mix_master = 'Cut Chemist'
 how_to_count = 30 * (100/5)
 	puts how_to_count
 
+## Variable pointing at another variable (9)not working)
+
 how_to_count = 10
 not_counting = how_to_count
-puts how_to_count
-puts not_counting
+	puts how_to_count
+	puts not_counting
 
-puts ''
+	puts ''
 
 how_to_count = 'Three Hundred'
 
-puts how_to_count
-puts not_counting
+	puts how_to_count
+	puts not_counting
